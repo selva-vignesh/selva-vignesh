@@ -2,7 +2,7 @@
 
 ### Machine Learning Aspirant | Electronics & Communication Engineering 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=selva-vignesh)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=selva-vignesh)   <img src="https://images.credly.com/size/340x340/images/6b6169d0-9c67-4550-893d-1a63f18394d7/Machine_Learning_Essentials.png"/>
 ## Programming Languages Known
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
