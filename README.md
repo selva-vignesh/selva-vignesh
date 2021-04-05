@@ -8,7 +8,7 @@
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 ### Python Packages
-<img  src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" height="50px" width="50px"/> <img src="https://numpy.org/images/logos/numpy.svg" height="50px" width="50px"/>[<img src="https://pandas.pydata.org/static/img/pandas_white.svg" height="70px" width="50px" />](https://en.wikipedia.org/wiki/Pandas_(software)#/media/File:Pandas_logo.svg) <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="70px" width="50px"/><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50px" width="50px" /><img src="" /><img src="" /> 
+<img  src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" height="50px" width="50px"/> <img src="https://numpy.org/images/logos/numpy.svg" height="50px" width="50px"/> <img src="https://en.wikipedia.org/wiki/Pandas_(software)#/media/File:Pandas_logo.svg" height="70px" width="50px" /> <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="70px" width="50px"/><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50px" width="50px" /><img src="" /><img src="" /> 
 ### Software
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 ### Operating Systems
