@@ -1,6 +1,6 @@
 # ✨ Selvavignesh Shanmugam ✨
 
-### Machine Learning Aspirant | Electronics & Communication Engineering Student  
+### Machine Learning Aspirant | Electronics & Communication Engineering 
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=selva-vignesh)
 ## Programming Languages Known
@@ -14,4 +14,4 @@
 ### Operating Systems
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 ## Follow me on
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/selvavignesh23/)  [<img alt="Twitter" src="https://img.shields.io/badge/VikySelva%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/viky_selva)  [<img alt="Instagram" src="https://img.shields.io/badge/_selva_vignesh._%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/_selva_vignesh._/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/selvavignesh23/)  [<img alt="Twitter" src="https://img.shields.io/badge/@VikySelva%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/viky_selva)  [<img alt="Instagram" src="https://img.shields.io/badge/_selva_vignesh._%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/_selva_vignesh._/)
