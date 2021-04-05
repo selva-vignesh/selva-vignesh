@@ -1,6 +1,7 @@
 # ✨ Selvavignesh Shanmugam ✨
 
-### Machine Learning Aspirant | Electronics & Communication Engineering                <img src="https://images.credly.com/size/340x340/images/6b6169d0-9c67-4550-893d-1a63f18394d7/Machine_Learning_Essentials.png"  height="400px" width="400px"/ >
+### Machine Learning Aspirant | Electronics & Communication Engineering              
+<img alighn ="right" src="https://images.credly.com/size/340x340/images/6b6169d0-9c67-4550-893d-1a63f18394d7/Machine_Learning_Essentials.png"  height="400px" width="400px"/ >
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=selva-vignesh)   
 ## Programming Languages Known
